@@ -1,0 +1,4 @@
+Dataset: Telco Customer Churn
+Target Column: Churn
+Rows: ~7000
+Columns: Customer info, services, billing, churn status
